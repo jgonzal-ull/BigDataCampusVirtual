@@ -6,7 +6,7 @@ import argparse
 import sys
 
 #pepe 234578910111213
-# pepote  asdfasdffasddddd
+# pepote  asdfasdffasddddd rttt
 
 def check_params():
     parser = argparse.ArgumentParser(description='Process bank files \
