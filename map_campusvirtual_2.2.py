@@ -7,7 +7,7 @@ import sys
 
 #pepe 234578910111213
 # pepote  asdfasdffasddddd rttt
-#### notepad combined
+#### notepad combined  dddd
 
 def check_params():
     parser = argparse.ArgumentParser(description='Process bank files \
