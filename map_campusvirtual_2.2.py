@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 
@@ -7,6 +7,7 @@ import sys
 
 #pepe 234578910111213
 # pepote  asdfasdffasddddd rttt
+####
 
 def check_params():
     parser = argparse.ArgumentParser(description='Process bank files \
